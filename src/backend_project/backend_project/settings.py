@@ -4,7 +4,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))))
 SECRET_KEY = '-05sgp9!deq=q1nltm@^^2cc+v29i(tyybv3v2t77qi66czazj'
 DEBUG = True
-ALLOWED_HOSTS = ['172.20.10.3','localhost','127.0.0.1','100.121.155.148']
+ALLOWED_HOSTS = ['172.20.10.3','localhost','127.0.0.1','100.121.155.148','kyalin.pythonanywhere.com']
 CORS_ORIGIN_ALLOW_ALL=True
 
 INSTALLED_APPS = [
